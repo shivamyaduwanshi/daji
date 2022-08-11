@@ -1,0 +1,25 @@
+.project {
+    padding: 10px;
+    background: #fff;
+    margin: 0 5px;
+    img {
+        width: 100%;
+    }
+    p.title {
+        color: #dd4d4d;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    p.plan{
+        color:#345a6e;
+        font-size: 14px;
+    }
+    p.location{
+        color:#345a6e;
+        font-size: 14px;
+    }
+    p.description{
+        color:#345a6e;
+        font-size: 12px;
+    }
+}

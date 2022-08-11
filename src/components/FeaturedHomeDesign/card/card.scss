@@ -1,0 +1,20 @@
+@import 'style/sass/variables';
+
+.featured-home-design-card {
+    background: $c-white;
+    padding: 10px 5px;
+    img{
+        width: 100%;
+        height: 200px;
+        object-fit: fill;
+    }
+    .title {
+        text-align: left;
+        font-size: 16px;
+        color: $c-link-color;
+        padding: 0;
+        margin-top: 5px;
+        font-weight: 600;
+        cursor: pointer;
+    }
+}

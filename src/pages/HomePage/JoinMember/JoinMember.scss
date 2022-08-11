@@ -1,0 +1,25 @@
+@import 'style/sass/variables';
+
+.join-member {
+  background: #ffffff8a;
+  position: relative;
+  padding: 20px 20px 10px;
+  p {
+    color: $c-red;
+    font-weight: 800;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  button {
+    background: #d62828;
+    border: none;
+    color: #fff;
+    padding: 10px 34px;
+    font-size: 18px;
+    border-radius: 2px;
+    font-weight: 600;
+    margin: 15px auto;
+    display: block;
+  }
+}

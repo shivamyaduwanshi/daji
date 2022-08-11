@@ -1,0 +1,31 @@
+@import 'style/sass/variables';
+
+.completed-projects {
+  background: #ffffff8a;
+  position: relative;
+  padding: 20px 20px 10px;
+  p {
+      color: $c-red;
+      text-align: left;
+      font-weight: 800;
+      text-align: left;
+      font-size: 24px;
+      margin-bottom: 10px;
+  }
+  .project-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+  }
+  button {
+    background: #d62828;
+    border: none;
+    color: #fff;
+    padding: 10px 34px;
+    font-size: 18px;
+    border-radius: 2px;
+    font-weight: 600;
+    margin: 20px auto;
+    display: block;
+  }
+}

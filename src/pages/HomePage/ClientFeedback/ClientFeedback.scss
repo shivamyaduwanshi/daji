@@ -1,0 +1,28 @@
+@import 'style/sass/variables';
+
+.client-feedback {
+  background: #ffffff8a;
+  position: relative;
+  padding: 20px 20px 10px;
+  p.title {
+    color: $c-red;
+    font-weight: 800;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .message {
+    width: 432px;
+    text-align: center;
+    margin: 0px auto;
+    color: #868f95;
+  }
+  img {
+    border: 2px solid #d93c3d;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    display: block;
+    margin: 20px auto;
+  }
+}
