@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05730b9d.css",
+    "main.js": "/static/js/main.2747e0e6.js",
+    "static/js/787.539c1e8c.chunk.js": "/static/js/787.539c1e8c.chunk.js",
+    "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.5daafc620ecc802516f9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.3a0917345468c959207a.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.f0963fd9968fbd54cc35.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/Montserrat-Thin.ttf": "/static/media/Montserrat-Thin.e8ecb9f79ef9cbd2d9a8.ttf",
+    "static/media/home-design-image.jpg": "/static/media/home-design-image.af5adf4ac042b3299b69.jpg",
+    "static/media/ambuja-cement.png": "/static/media/ambuja-cement.b6f667d5dfa643802b6f.png",
+    "static/media/user-image.jpg": "/static/media/user-image.b03d3cb97eb1e46026fc.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.05730b9d.css.map": "/static/css/main.05730b9d.css.map",
+    "main.2747e0e6.js.map": "/static/js/main.2747e0e6.js.map",
+    "787.539c1e8c.chunk.js.map": "/static/js/787.539c1e8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05730b9d.css",
+    "static/js/main.2747e0e6.js"
+  ]
+}
