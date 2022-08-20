@@ -11,11 +11,12 @@ const Banner = () => {
   const [banners, setBanners] = useState([]);
 
   var settings = {
-    dots: true,
-    infinite: false,
-    speed: 500,
+    infinite: true,
+    arrows: false,
     slidesToShow: 1,
-    slidesToScroll: 1
+    slidesToScroll: 1,
+    dots: true,
+    speed: 300,
   };
 
   const getBanners = () => {

@@ -1,15 +1,45 @@
 @import 'style/sass/variables';
 
 .featured-home-design {
-    background: #ffffff8a;
-    position: relative;
-    padding: 20px 20px 10px;
-    p {
-        color: $c-red;
-        text-align: left;
-        font-weight: 800;
-        text-align: left;
-        font-size: 24px;
-        margin-bottom: 10px;
+  background: #ffffff8a;
+  position: relative;
+  padding: 20px 20px 10px;
+  p {
+    color: $c-red;
+    text-align: left;
+    font-weight: 800;
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+}
+
+.home-design-modal {
+  .title {
+    font-size: 24px;
+    color: #6d1e38;
+  }
+  .content {
+    display: flex;
+    justify-content: space-between;
+    img {
+      width: 150px;
+      height: 120px;
     }
+    .details {
+      margin-left: 20px;
+      width: 100%;
+      line-height: 2;
+      b {
+        font-weight: bold;
+        margin-right: 10px;
+      }
+      .download-docs {
+        border: none;
+        padding: 5px 10px;
+        background: #6d1e1f;
+        color: #fff;
+      }
+    }
+  }
 }
